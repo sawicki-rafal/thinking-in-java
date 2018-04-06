@@ -1,4 +1,4 @@
-package chapter_02;
+package chapter.two;
 
 public class Exercise1 {
     int x;

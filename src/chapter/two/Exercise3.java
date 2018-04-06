@@ -1,4 +1,4 @@
-package chapter_02;
+package chapter.two;
 
 class ATypeName {
 
