@@ -1,6 +1,6 @@
-package chapter.two;
+package com.sawickirafal.chapter.two;
 
-public class Exercise6 {
+public class Exercise006 {
     static int storage(String s) {
         return s.length() * 2;
     }

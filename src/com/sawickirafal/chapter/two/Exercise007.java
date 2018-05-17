@@ -1,4 +1,4 @@
-package chapter.two;
+package com.sawickirafal.chapter.two;
 
 class StaticTest {
     static int i = 47;
@@ -10,7 +10,7 @@ class Incrementable {
     }
 }
 
-public class Exercise7 {
+public class Exercise007 {
     public static void main(String[] args) {
         StaticTest st1 = new StaticTest();
         StaticTest st2 = new StaticTest();

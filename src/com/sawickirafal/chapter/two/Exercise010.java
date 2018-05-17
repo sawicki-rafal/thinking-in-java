@@ -1,6 +1,6 @@
-package chapter.two;
+package com.sawickirafal.chapter.two;
 
-public class Exercise10 {
+public class Exercise010 {
     public static void main(String[] args) {
         if (args.length < 3)
             return;

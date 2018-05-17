@@ -1,6 +1,6 @@
-package chapter.two;
+package com.sawickirafal.chapter.two;
 
-public class Exercise2 {
+public class Exercise002 {
     public static void main(String[] args) {
         System.out.println("Hello, world!");
     }

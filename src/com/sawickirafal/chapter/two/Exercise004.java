@@ -1,4 +1,4 @@
-package chapter.two;
+package com.sawickirafal.chapter.two;
 
 class DataOnly {
     int i;
@@ -6,7 +6,7 @@ class DataOnly {
     boolean b;
 }
 
-public class Exercise4 {
+public class Exercise004 {
     public static void main(String[] args) {
         DataOnly data = new DataOnly();
         data.i = 47;
