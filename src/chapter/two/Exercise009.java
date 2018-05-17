@@ -1,6 +1,6 @@
 package chapter.two;
 
-public class Exercise9 {
+public class Exercise009 {
     public static void main(String[] args) {
         boolean b = true;
         char c = 'a';

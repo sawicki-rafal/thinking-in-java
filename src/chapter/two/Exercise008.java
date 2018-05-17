@@ -4,7 +4,7 @@ class ClassWithStatic {
     static int i = 1;
 }
 
-public class Exercise8 {
+public class Exercise008 {
     public static void main(String[] args) {
         ClassWithStatic cl1 = new ClassWithStatic();
         cl1.i++;
