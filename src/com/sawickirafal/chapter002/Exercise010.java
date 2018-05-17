@@ -1,4 +1,4 @@
-package com.sawickirafal.chapter.two;
+package com.sawickirafal.chapter002;
 
 public class Exercise010 {
     public static void main(String[] args) {

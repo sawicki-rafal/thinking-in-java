@@ -1,4 +1,4 @@
-package com.sawickirafal.chapter.two;
+package com.sawickirafal.chapter002;
 
 class StaticTest {
     static int i = 47;
