@@ -19,5 +19,6 @@ public class Main {
         for (int i = 0; i < NUMBER_OF_TASKS; i++) {
             executor.execute(new ThinkingRunnable());
         }
+        executor.shutdown();
     }
 }
