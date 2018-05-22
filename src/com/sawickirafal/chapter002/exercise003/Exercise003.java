@@ -1,8 +1,4 @@
-package com.sawickirafal.chapter002;
-
-class ATypeName {
-
-}
+package com.sawickirafal.chapter002.exercise003;
 
 public class Exercise003 {
     public static void main(String[] args) {

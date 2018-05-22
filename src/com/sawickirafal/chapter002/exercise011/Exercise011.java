@@ -1,12 +1,4 @@
-package com.sawickirafal.chapter002;
-
-class AllTheColorsOfTheRainbow {
-    int anIntegerRepresentingColors;
-
-    void changeTheHueOfTheColor(int newHue) {
-        anIntegerRepresentingColors = newHue;
-    }
-}
+package com.sawickirafal.chapter002.exercise011;
 
 public class Exercise011 {
     public static void main(String[] args) {

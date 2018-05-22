@@ -1,8 +1,4 @@
-package com.sawickirafal.chapter002;
-
-class ClassWithStatic {
-    static int i = 1;
-}
+package com.sawickirafal.chapter002.exercise008;
 
 public class Exercise008 {
     public static void main(String[] args) {

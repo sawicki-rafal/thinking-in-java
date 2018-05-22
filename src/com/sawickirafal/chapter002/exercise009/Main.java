@@ -1,6 +1,6 @@
-package com.sawickirafal.chapter002;
+package com.sawickirafal.chapter002.exercise009;
 
-public class Exercise009 {
+public class Main {
     public static void main(String[] args) {
         boolean b = true;
         char c = 'a';

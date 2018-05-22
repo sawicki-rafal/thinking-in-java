@@ -1,10 +1,4 @@
-package com.sawickirafal.chapter002;
-
-class DataOnly {
-    int i;
-    double d;
-    boolean b;
-}
+package com.sawickirafal.chapter002.exercise004;
 
 public class Exercise004 {
     public static void main(String[] args) {
