@@ -5,8 +5,6 @@ import generics.Fibonacci;
 import java.util.concurrent.Callable;
 
 public class CallableFibonacciTask implements Callable<Integer> {
-    private static int instanceCounter = 0;
-    private final int id = instanceCounter++;
     private Fibonacci fibonacciGenerator = new Fibonacci();
     private int upperLimit;
 
